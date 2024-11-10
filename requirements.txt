@@ -25,7 +25,6 @@ google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
 gtts
-glitch_this
 gsearch
 googletrans-py
 hachoir
